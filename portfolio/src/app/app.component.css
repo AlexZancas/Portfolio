@@ -1,0 +1,9 @@
+html{
+    background-color: rgb(10, 10, 10);
+}
+
+.constr{
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+}

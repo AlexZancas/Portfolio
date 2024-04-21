@@ -1,0 +1,13 @@
+{
+        "NAVBAR":{
+            "HOME":"Inicio",
+            "PROJECTS":"Proyectos",
+            "CONTACT":"Contacto",
+            "FAQ":"FAQ"
+        },
+        "LANGUAGE_SELECTOR":{
+            "ENGLISH_SHORT": "ENG",
+            "SPAMISH_SHORT": "ESP"
+        }
+ 
+}
